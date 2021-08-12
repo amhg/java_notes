@@ -1,3 +1,3 @@
 # java_notes
 
-Comparable
+Comparable (compareTo)
